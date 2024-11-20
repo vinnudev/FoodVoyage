@@ -34,22 +34,11 @@ The Food Ordering App is a seamless and user-friendly web application that simpl
 ### Food Listings  
 ![image](https://github.com/user-attachments/assets/39f61137-7d97-41d3-983d-ef6785734d5c)
 
-#### Food Listing by item
-![image](https://github.com/user-attachments/assets/3b339329-cef1-4ef1-b274-4da430e2c7a1)
-
 ### Cart Management  
 ![image](https://github.com/user-attachments/assets/a4366827-268a-4d96-b8ff-dc807fc35dc7)
 
 ### Place Order Page
 ![image](https://github.com/user-attachments/assets/43555278-7ac7-406c-9aa7-455436ad3724)
-
-### Login Page
-![image](https://github.com/user-attachments/assets/fe53d07c-3b5d-45bf-9dcd-27757ab4b592)
-
-### Sign Page
-![image](https://github.com/user-attachments/assets/25164d2e-7362-4aed-9156-1f56bc4aa5d6)
-
-
 
 ## Installation  
 
